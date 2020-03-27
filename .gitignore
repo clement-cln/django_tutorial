@@ -4,3 +4,12 @@
 
 #VSCode
 .vscode
+
+#Python files
+*.pyc
+
+#Database
+*.sqlite3
+
+#config files
+*.cfg

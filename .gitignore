@@ -1,0 +1,6 @@
+#Ignore binaries
+/lib
+/bin
+
+#VSCode
+.vscode

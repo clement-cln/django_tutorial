@@ -25,7 +25,7 @@ SECRET_KEY = 'nc-qup=xt_#u*z#o$=gl54(ygz50&n$up=)jl*3vs2s5@x#6*3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [ '192.168.1.13']
+ALLOWED_HOSTS = []
 
 
 # Application definition
